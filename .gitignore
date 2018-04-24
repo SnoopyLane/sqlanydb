@@ -2,3 +2,5 @@
 build
 dist
 sqlanydb.egg-info
+*.pyc
+__pycache__/
